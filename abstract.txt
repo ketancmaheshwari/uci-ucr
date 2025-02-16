@@ -1,0 +1,8 @@
+Title: Enacting Distributed HPC Workflows: Opportunities and Challenges 
+
+The Dept of Energy (DOE) complex comprises of many science facilities that could be classified as data producing (eg. the Advanced Photon Source at Argonne National Laboratory) and consuming (eg. the Leadership Class Computing Facilities at the Oak Ridge National Laboratory) facilities. 
+
+Modern science campaigns often require extensive usage of more than one such facilities which may be located remote from each other and administered separately. This presents opportunities for the scientific computational workflows to aid in the process. At the same time, there are equally daunting challenges faced to successfully and smoothly accomplish these workflows.
+
+Our talk will dive into these opportunities and challenges and dive into proposed solutions and path forward.
+
